@@ -1,0 +1,53 @@
+@font-face {
+  font-family: 'font-bold';
+  font-weight: 700;
+  src: local('CeraRoundPro-Bold'),
+    url('/assets/fonts/CeraRoundPro-Bold.woff2') format('woff2'),
+    url('/assets/fonts/CeraRoundPro-Bold.woff') format('woff'),
+    url('/assets/fonts/CeraRoundPro-Bold.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'font-medium';
+  font-weight: 500;
+  src: local('CeraRoundPro-Medium'),
+    url('/assets/fonts/CeraRoundPro-Medium.woff2') format('woff2'),
+    url('/assets/fonts/CeraRoundPro-Medium.woff') format('woff'),
+    url('/assets/fonts/CeraRoundPro-Medium.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'font-regular';
+  font-weight: 400;
+  src: local('CeraRoundPro-Regular'),
+    url('/assets/fonts/CeraRoundPro-Regular.woff2') format('woff2'),
+    url('/assets/fonts/CeraRoundPro-Regular.woff') format('woff'),
+    url('/assets/fonts/CeraRoundPro-Regular.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'font-light';
+  font-weight: 300;
+  src: local('CeraRoundPro-Light'),
+    url('/assets/fonts/CeraRoundPro-Light.woff2') format('woff2'),
+    url('/assets/fonts/CeraRoundPro-Light.woff') format('woff'),
+    url('/assets/fonts/CeraRoundPro-Light.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'font-semibold';
+  font-weight: normal;
+  src: local('TiemposHeadline-Semibold'),
+    url('/assets/fonts/TiemposHeadline-Semibold.woff') format('woff'),
+    url('/assets/fonts/TiemposHeadline-Semibold.ttf') format('truetype');
+  font-style: normal;
+  font-display: swap;
+}

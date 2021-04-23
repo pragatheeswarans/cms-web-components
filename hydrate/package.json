@@ -1,0 +1,6 @@
+{
+  "name": "cms-web-components/hydrate",
+  "description": "CmsWebComponents component hydration app.",
+  "main": "index.js",
+  "types": "index.d.ts"
+}
